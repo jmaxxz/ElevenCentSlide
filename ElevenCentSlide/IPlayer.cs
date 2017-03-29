@@ -2,7 +2,7 @@
 
 namespace ElevenCentSlide
 {
-    public interface Player
+    public interface IPlayer
     {
         /// <summary>
         /// When called player will be given unlimited time to reach a solution
